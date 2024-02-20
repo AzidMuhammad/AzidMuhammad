@@ -51,5 +51,7 @@ struct MyProfile {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20-%230f172a.svg?&style=flat&logo=tailwindcss&logoColor=%2338bdf8)
 </div>
-
 <br/>
+
+[![Generate Snake](https://github.com/alicemist/alicemist/actions/workflows/snakegenerator.yml/badge.svg)](https://github.com/alicemist/alicemist/actions/workflows/snakegenerator.yml)
+![snake gif](https://github.com/alicemist/alicemist/blob/output/github-snake-dark.svg)
