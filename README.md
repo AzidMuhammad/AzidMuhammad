@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans+serif&weight=200&size=21&duration=8000&pause=1000&color=F70000&random=false&width=435&lines=Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
+
 ```swift
 static func who_am_i() -> String {
     return "Hi there 👋, I'm AzidMuhammad"
