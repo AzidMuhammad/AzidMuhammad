@@ -52,9 +52,9 @@ static func my_social() -> [String] {
     
 #### 𝙷𝚘𝚠 𝚝𝚘 Contact 𝙼𝚎
  <a href="https://www.instagram.com/azidmuhammadd" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a> 
-<a href="mailto:najibfikri13@gmail.com"><image src="https://img.shields.io/badge/Gmail-%2339c7f3.svg?style=flat&logo=gmail&logoColor=white">
+<a href="mailto:azidd0213@gmail.com"><image src="https://img.shields.io/badge/Gmail-fe4164?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
 
 #### 𝙷𝚊𝚟𝚎 𝙻𝚎𝚊𝚛𝚗𝚎𝚍 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
