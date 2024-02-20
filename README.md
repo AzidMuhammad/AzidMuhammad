@@ -1,9 +1,9 @@
-import LHxHub
+import AzidMuhammad
 
 struct MyProfile {
     
     static func who_am_i() -> String {
-        return "Hi there 👋, I'm LaoHan"
+        return "Hi there 👋, I'm AzidMuhammad"
     }
     
     static func what_i_do() -> [String] {
@@ -15,17 +15,21 @@ struct MyProfile {
     
     static func current_learn() -> [String] {
         return [
-            "Swift"
+            "Html"
+            "Css"
+            "Javascript"
+            "PHP"
+            "Flutter"
         ]
     }
     
     static func my_open_source() -> String {
-        return "LHxHub"
+        return "AzidMuhammad"
     }
     
     static func my_social() -> [String] {
         return [
-            "https://dub.sh/V92LTUD",
+            "[https://dub.sh/V92LTUD](https://www.instagram.com/azidmuhammadd/)https://www.instagram.com/azidmuhammadd/",
         ]
     }
     
