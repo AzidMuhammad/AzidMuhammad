@@ -1,6 +1,3 @@
-import AzidMuhammad
-
-struct MyProfile {
     
     static func who_am_i() -> String {
         return "Hi there 👋, I'm AzidMuhammad"
@@ -33,7 +30,6 @@ struct MyProfile {
         ]
     }
     
-}
 #### 𝙷𝚘𝚠 𝚝𝚘 Contact 𝙼𝚎
 <a href="(https://www.instagram.com/azidmuhammadd/)"><image src="https://img.shields.io/badge/Instagram-%23df05a7.svg?style=flat&logo=instagram&logoColor=white">
 </a>
