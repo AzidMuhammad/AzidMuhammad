@@ -29,7 +29,7 @@ struct MyProfile {
     
     static func my_social() -> [String] {
         return [
-            "(https://www.instagram.com/azidmuhammadd/)https://www.instagram.com/azidmuhammadd/",
+            "(https://www.instagram.com/azidmuhammadd/)",
         ]
     }
     
