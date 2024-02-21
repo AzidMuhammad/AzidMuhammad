@@ -25,10 +25,6 @@ static func current_learn() -> [String] {
     ]
 }
 
-static func my_open_source() -> String {
-    return "AzidMuhammad"
-}
-
 static func my_social() -> [String] {
     return [
         "(https://www.instagram.com/azidmuhammadd/)",
