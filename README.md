@@ -1,36 +1,4 @@
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c552be39-25aa-4f5a-8421-54aa11f7131f" width="900">
-</div>
-<br>
 
-```swift
-static func who_am_i() -> String {
-    return "Hi there 👋, I'm AzidMuhammad"
-}
-
-static func what_i_do() -> [String] {
-    return [
-        "Website Development",
-        "Mobile Apps Development"
-    ]
-}
-
-static func current_learn() -> [String] {
-    return [
-        "Html",
-        "Css",
-        "Javascript",
-        "PHP",
-        "Flutter"
-    ]
-}
-
-static func my_social() -> [String] {
-    return [
-        "(https://www.instagram.com/azidmuhammadd/)",
-    ]
-}
-```
 <hr/>
 
 <div align="center">
