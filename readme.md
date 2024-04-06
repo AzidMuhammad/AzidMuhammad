@@ -1,4 +1,4 @@
-```javascript
+```php
 const azidmuhammad = {
     pronouns: "Bro" | "Bruh",
     code: ["Javascript", "HTML", "Python", "Java", "C++"],
