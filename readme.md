@@ -1,8 +1,8 @@
-```php
+```javascript
 const azidmuhammad = {
     pronouns: "Bro" | "Bruh",
-    code: ["Javascript", "HTML", "Python", "Java", "C++"],
-    askMeAbout: ["Web Dev", "Tech", "Machine learning", "Software Development", "TV Shows", "Content Writing", "Memes"],
+    code: ["Javascript", "HTML", "Python", "Java", "C++", "CSS", "PHP"],
+    askMeAbout: ["Web Dev", "Tech", "Software Development"],
     technologies: {
         frontEnd: {
             js: ["jQuery", "React Js", "Vue Js"],
@@ -11,6 +11,7 @@ const azidmuhammad = {
         backEnd: {
             python: ["flask"]
             java : ["JSP"]
+            php : ["Laravel"]
         },
         databases: ["MySql","phpMyAdmin"],
     },
