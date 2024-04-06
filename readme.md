@@ -9,12 +9,11 @@ const azidmuhammad = {
             css: ["CSS3", "Tailwind", "Bootstrap"]
         },
         backEnd: {
-            python: ["flask"]
-            java : ["JSP"]
+            python: ["flask"],
+            java : ["JSP"],
             php : ["Laravel"]
         },
         databases: ["MySql","phpMyAdmin"],
     },
     funFact: "I am Programmer."
 };
-```
