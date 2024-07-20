@@ -5,7 +5,7 @@ const azidmuhammad = {
     askMeAbout: ["Web Dev", "Tech", "Software Development"],
     technologies: {
         frontEnd: {
-            js: ["jQuery", "React Js", "Vue Js"],
+            js: ["Next Js", "React Js", "Vue Js"],
             css: ["CSS3", "Tailwind", "Bootstrap"]
         },
         backEnd: {
